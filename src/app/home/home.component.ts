@@ -7,5 +7,5 @@ selector:'home-component'
 })
 
 export class HomeComponent{
-  titulo: string = 'Gamification';
+  titulo: string = 'Gamificação';
 }
