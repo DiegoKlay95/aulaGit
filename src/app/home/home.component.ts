@@ -7,5 +7,5 @@ selector:'home-component'
 })
 
 export class HomeComponent{
-  titulo: string = 'Gamificação';
+  titulo: string = 'Bem Vindos a Westeros';
 }
